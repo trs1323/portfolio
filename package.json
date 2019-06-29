@@ -4,7 +4,7 @@
   "description": "Responsive portfolio website",
   "main": "index.js",
   "scripts": {
-    "scss": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "Tanner Shilson",
   "license": "MIT",
